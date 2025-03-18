@@ -142,7 +142,3 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 Happy Coding!
 ```
-
----
-
-Feel free to customize this README with additional details such as your GitHub username, further usage examples, or any other project-specific instructions.
